@@ -57,9 +57,20 @@ Review usability, handle edge cases and document important decisions.
 
 ## Portfolio
 
-This profile is a growing collection of my development work.
-Project repositories will include an overview, the technology stack
-and instructions for running the application locally.
+### TaskFlow — Task Manager
+
+A responsive task board built with React, TypeScript and Vite.
+
+- Create, edit and delete tasks
+- Track progress across To Do, In Progress and Done
+- Set priorities and due dates
+- Search and filter tasks
+- Save tasks locally in the browser
+
+[Live demo →](https://annasafonovaa.github.io/taskflow/)
+·
+[Source code →](https://github.com/annasafonovaa/taskflow)
+
 
 ## Let's connect
 
